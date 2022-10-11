@@ -51,7 +51,7 @@ namespace L11Cars
         //ToString Method to return formatted string with Car detials
         public override string ToString()
         {
-            string toString = $"Make: {Make}\tModel: {Model}\tYear: {Year}\tPrice: ${Price}";
+            string toString = $"Make: {Make}\tModel: {Model}\tYear: {Year}\tPrice: ${Price} - NEW";
             return toString;
 
 

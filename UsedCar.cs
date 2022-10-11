@@ -26,7 +26,7 @@ namespace L11Cars
         public override string ToString()
         {
 
-            string toString = $"Make: {Make}\tModel: {Model}\tYear: {Year}\tPrice: ${Price}\tMiles: {Mileage}";
+            string toString = $"Make: {Make}\tModel: {Model}\tYear: {Year}\tPrice: ${Price}\tMiles: {Mileage} - USED";
             return toString;
 
         }

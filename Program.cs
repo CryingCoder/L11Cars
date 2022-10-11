@@ -28,7 +28,7 @@
             int index = 0;
             foreach (Car car in carsInventory)
             {
-                Console.WriteLine(index + ": " + car);
+                Console.WriteLine(index + "-" + car);
                 Console.WriteLine();
                 index++;
             }
@@ -59,7 +59,7 @@
             index = 0;
             foreach (Car car in carsInventory)
             {
-                Console.WriteLine(index + " : " + car);
+                Console.WriteLine(index + "-" + car);
                 index++;
             }
 
