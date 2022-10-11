@@ -39,20 +39,26 @@
             Console.WriteLine("\nPlease select the number to the left of the cars \"Make\" you want to purchase");
             string choice = Console.ReadLine();
             int carChoice = int.Parse(choice);
-            
 
-
-            /*if (carChoice == null)
+     /*       bool goOn = true;
+            while (goOn)
             {
-                Console.WriteLine("Please enter only the number to the left of the car Make you'd like to purchase");
-            }*/
+                Console.WriteLine();
 
+                if (choice == null)
+                {
+                    Console.WriteLine("Please enter only the number to the left of the car Make you'd like to purchase");
+                    return;
+                }
+                else
+                {
+                    continue;
+                }*/
 
-
-            //Remove the car chosen form the list of cars available
-            carsInventory.RemoveAt(carChoice);
-            Console.WriteLine("\n"+carsInventory[carChoice - 1]+"\n");
-
+                //Remove the car chosen form the list of cars available
+                carsInventory.RemoveAt(carChoice);
+                Console.WriteLine("\n" + carsInventory[carChoice - 1] + "\n");
+            //}
 
 
             //Print Car list after choosing a car and removing it from list
