@@ -1,0 +1,15 @@
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L11Cars\bin\Debug\net6.0\L11Cars.exe
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L11Cars\bin\Debug\net6.0\L11Cars.deps.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L11Cars\bin\Debug\net6.0\L11Cars.runtimeconfig.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L11Cars\bin\Debug\net6.0\L11Cars.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L11Cars\bin\Debug\net6.0\L11Cars.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L11Cars\obj\Debug\net6.0\L11Cars.csproj.AssemblyReference.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L11Cars\obj\Debug\net6.0\L11Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L11Cars\obj\Debug\net6.0\L11Cars.AssemblyInfoInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L11Cars\obj\Debug\net6.0\L11Cars.AssemblyInfo.cs
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L11Cars\obj\Debug\net6.0\L11Cars.csproj.CoreCompileInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L11Cars\obj\Debug\net6.0\L11Cars.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L11Cars\obj\Debug\net6.0\refint\L11Cars.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L11Cars\obj\Debug\net6.0\L11Cars.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L11Cars\obj\Debug\net6.0\L11Cars.genruntimeconfig.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L11Cars\obj\Debug\net6.0\ref\L11Cars.dll
