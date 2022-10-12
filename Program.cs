@@ -56,8 +56,8 @@
                 }*/
 
                 //Remove the car chosen form the list of cars available
+                Console.WriteLine("\n" + carsInventory[carChoice] + "\n");
                 carsInventory.RemoveAt(carChoice);
-                Console.WriteLine("\n" + carsInventory[carChoice - 1] + "\n");
             //}
 
 
